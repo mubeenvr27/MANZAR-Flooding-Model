@@ -1,7 +1,3 @@
-Here is the complete, production-ready `README.md` for your GitHub repository. It is structured to reflect a serious, engineering-first approach, detailing the physical preprocessing, the deep learning architecture, and the data pipelines you have built.
-
----
-
 # MANZAR: Multi-Sensor Deep Learning Flood Detection
 
 This repository contains the Flood Detection Module for the **MANZAR Geospatial Platform**. It implements a highly scalable, multi-sensor deep learning pipeline designed to perform all-weather binary semantic segmentation of floodwaters.
